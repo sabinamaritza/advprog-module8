@@ -100,6 +100,7 @@ yang berbasis JSON/HTTP API.
 <br>
 
 **9. REST vs gRPC (real-time communication)**
+
 **REST** menggunakan model request-response, sehingga kurang efisien untuk real-time karena harus polling.
 
 **gRPC** mendukung streaming, sehingga komunikasi bisa berlangsung secara langsung dan lebih responsif.
