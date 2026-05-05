@@ -1,0 +1,16 @@
+/Users/Sabina_1/Desktop/grpc-tutorial/target/debug/deps/prost_build-26c5be781465a90b.d: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/Sabina_1/Desktop/grpc-tutorial/target/debug/deps/libprost_build-26c5be781465a90b.rlib: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/Sabina_1/Desktop/grpc-tutorial/target/debug/deps/libprost_build-26c5be781465a90b.rmeta: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs:
+
+# env-dep:PROTOC=/opt/homebrew/bin/protoc
+# env-dep:PROTOC_INCLUDE=/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/third-party/include
